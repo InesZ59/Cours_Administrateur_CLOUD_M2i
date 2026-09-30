@@ -1,2 +1,0 @@
-def ''===programme_notes===
-
